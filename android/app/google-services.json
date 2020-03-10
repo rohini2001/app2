@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "312388856624",
+    "firebase_url": "https://asterix-a6075.firebaseio.com",
+    "project_id": "asterix-a6075",
+    "storage_bucket": "asterix-a6075.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312388856624:android:46c90ea263a160af62b6f5",
+        "android_client_info": {
+          "package_name": "com.asterix.hack2app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312388856624-k6pra4s2qpnimc2br1g3tv0af1766tqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUkOUzIQEgNpPUhac4QGD1I8pk29je6-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312388856624-k6pra4s2qpnimc2br1g3tv0af1766tqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
